@@ -1,0 +1,7 @@
+secrets.h
+*.env
+node-red.env
+.env
+flows_cred.json
+*.db
+*.sqlite
