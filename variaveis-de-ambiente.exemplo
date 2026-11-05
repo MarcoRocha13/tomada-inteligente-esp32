@@ -1,0 +1,6 @@
+# Copie para node-red.env, preencha e NÃO publique o arquivo preenchido.
+MQTT_HOST=SEU-CLUSTER.s1.eu.hivemq.cloud
+EVOLUTION_API_KEY=troque-pela-chave-da-sua-evolution-api
+WHATSAPP_GRUPO=000000000000000000@g.us
+EVOLUTION_URL_ENVIO=http://host.docker.internal:8081/message/sendText/NOME_DA_INSTANCIA
+EVOLUTION_URL_ESTADO=http://host.docker.internal:8081/instance/connectionState/NOME_DA_INSTANCIA

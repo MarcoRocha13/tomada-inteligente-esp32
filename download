@@ -1,0 +1,8 @@
+# Segredos e dados locais: nunca publicar
+secrets.h
+*.env
+node-red.env
+.env
+flows_cred.json
+*.db
+*.sqlite
